@@ -1,0 +1,201 @@
+Student_ID,Name,Gender,Percentage,Age,Stream,Interest,Skill,Aptitude_Score,Communication_Score,Recommended_Career
+1001,Student_1,Male,62,18,BCA,Technology,Python,90,90,Data Analyst
+1002,Student_2,Female,85,19,BCA,Technology,SQL,95,86,Data Scientist
+1003,Student_3,Male,77,20,BCA,Technology,Programming,97,72,Software Developer
+1004,Student_4,Female,70,19,BTech,Design,Creativity,64,68,UI/UX Designer
+1005,Student_5,Male,66,19,BCom,Finance,Analytics,94,97,Financial Analyst
+1006,Student_6,Female,71,19,BTech,Business,Communication,85,72,Business Analyst
+1007,Student_7,Male,78,20,BSc,Marketing,Creativity,81,83,Digital Marketer
+1008,Student_8,Female,74,19,BTech,Technology,Networking,66,68,Cyber Security Analyst
+1009,Student_9,Male,88,21,BTech,Technology,Cloud,77,63,Cloud Engineer
+1010,Student_10,Female,74,19,BTech,Technology,Machine Learning,99,69,AI Engineer
+1011,Student_11,Male,62,20,BE,Technology,Python,84,81,Data Analyst
+1012,Student_12,Female,91,20,BE,Technology,SQL,67,81,Data Scientist
+1013,Student_13,Male,75,22,BCom,Technology,Programming,75,61,Software Developer
+1014,Student_14,Female,68,18,BCA,Design,Creativity,61,77,UI/UX Designer
+1015,Student_15,Male,78,22,BSc,Finance,Analytics,93,65,Financial Analyst
+1016,Student_16,Female,63,18,BCA,Business,Communication,79,97,Business Analyst
+1017,Student_17,Male,89,18,BCA,Marketing,Creativity,65,99,Digital Marketer
+1018,Student_18,Female,75,19,BCA,Technology,Networking,78,60,Cyber Security Analyst
+1019,Student_19,Male,65,19,BE,Technology,Cloud,62,84,Cloud Engineer
+1020,Student_20,Female,70,21,BCom,Technology,Machine Learning,84,67,AI Engineer
+1021,Student_21,Male,73,20,BCA,Technology,Python,63,75,Data Analyst
+1022,Student_22,Female,69,19,BCA,Technology,SQL,67,87,Data Scientist
+1023,Student_23,Male,69,22,BE,Technology,Programming,77,62,Software Developer
+1024,Student_24,Female,90,19,BE,Design,Creativity,86,91,UI/UX Designer
+1025,Student_25,Male,68,20,BCA,Finance,Analytics,75,93,Financial Analyst
+1026,Student_26,Female,90,19,BTech,Business,Communication,81,72,Business Analyst
+1027,Student_27,Male,61,22,BCA,Marketing,Creativity,65,71,Digital Marketer
+1028,Student_28,Female,88,18,BCA,Technology,Networking,70,68,Cyber Security Analyst
+1029,Student_29,Male,64,18,BE,Technology,Cloud,83,79,Cloud Engineer
+1030,Student_30,Female,71,18,BCA,Technology,Machine Learning,91,85,AI Engineer
+1031,Student_31,Male,89,21,BSc,Technology,Python,84,99,Data Analyst
+1032,Student_32,Female,71,22,BSc,Technology,SQL,97,89,Data Scientist
+1033,Student_33,Male,79,18,BTech,Technology,Programming,85,88,Software Developer
+1034,Student_34,Female,77,20,BCA,Design,Creativity,81,91,UI/UX Designer
+1035,Student_35,Male,78,20,BSc,Finance,Analytics,85,92,Financial Analyst
+1036,Student_36,Female,68,22,BCom,Business,Communication,91,91,Business Analyst
+1037,Student_37,Male,65,22,BCom,Marketing,Creativity,71,97,Digital Marketer
+1038,Student_38,Female,82,22,BCA,Technology,Networking,78,61,Cyber Security Analyst
+1039,Student_39,Male,61,22,BCom,Technology,Cloud,79,86,Cloud Engineer
+1040,Student_40,Female,73,22,BTech,Technology,Machine Learning,67,92,AI Engineer
+1041,Student_41,Male,61,19,BCA,Technology,Python,96,76,Data Analyst
+1042,Student_42,Female,95,19,BE,Technology,SQL,67,86,Data Scientist
+1043,Student_43,Male,87,20,BSc,Technology,Programming,65,87,Software Developer
+1044,Student_44,Female,60,22,BSc,Design,Creativity,72,69,UI/UX Designer
+1045,Student_45,Male,81,21,BTech,Finance,Analytics,80,77,Financial Analyst
+1046,Student_46,Female,75,20,BTech,Business,Communication,69,70,Business Analyst
+1047,Student_47,Male,95,19,BCA,Marketing,Creativity,70,100,Digital Marketer
+1048,Student_48,Female,78,18,BSc,Technology,Networking,87,88,Cyber Security Analyst
+1049,Student_49,Male,66,19,BTech,Technology,Cloud,66,89,Cloud Engineer
+1050,Student_50,Female,76,20,BE,Technology,Machine Learning,67,86,AI Engineer
+1051,Student_51,Male,85,22,BTech,Technology,Python,65,63,Data Analyst
+1052,Student_52,Female,84,22,BCom,Technology,SQL,97,89,Data Scientist
+1053,Student_53,Male,65,22,BCom,Technology,Programming,87,82,Software Developer
+1054,Student_54,Female,92,22,BCA,Design,Creativity,100,84,UI/UX Designer
+1055,Student_55,Male,67,22,BE,Finance,Analytics,92,94,Financial Analyst
+1056,Student_56,Female,72,18,BCA,Business,Communication,76,68,Business Analyst
+1057,Student_57,Male,89,20,BTech,Marketing,Creativity,69,80,Digital Marketer
+1058,Student_58,Female,90,18,BSc,Technology,Networking,91,70,Cyber Security Analyst
+1059,Student_59,Male,65,21,BSc,Technology,Cloud,93,71,Cloud Engineer
+1060,Student_60,Female,79,21,BE,Technology,Machine Learning,61,83,AI Engineer
+1061,Student_61,Male,72,19,BTech,Technology,Python,70,61,Data Analyst
+1062,Student_62,Female,67,20,BSc,Technology,SQL,93,79,Data Scientist
+1063,Student_63,Male,71,21,BE,Technology,Programming,72,87,Software Developer
+1064,Student_64,Female,89,22,BE,Design,Creativity,90,80,UI/UX Designer
+1065,Student_65,Male,62,21,BSc,Finance,Analytics,82,89,Financial Analyst
+1066,Student_66,Female,73,22,BTech,Business,Communication,73,75,Business Analyst
+1067,Student_67,Male,64,21,BSc,Marketing,Creativity,61,97,Digital Marketer
+1068,Student_68,Female,76,18,BCA,Technology,Networking,67,99,Cyber Security Analyst
+1069,Student_69,Male,63,22,BCom,Technology,Cloud,73,65,Cloud Engineer
+1070,Student_70,Female,76,19,BSc,Technology,Machine Learning,75,78,AI Engineer
+1071,Student_71,Male,81,19,BTech,Technology,Python,75,93,Data Analyst
+1072,Student_72,Female,69,18,BCom,Technology,SQL,70,94,Data Scientist
+1073,Student_73,Male,85,19,BCA,Technology,Programming,77,83,Software Developer
+1074,Student_74,Female,83,22,BCom,Design,Creativity,82,88,UI/UX Designer
+1075,Student_75,Male,84,22,BTech,Finance,Analytics,90,97,Financial Analyst
+1076,Student_76,Female,86,22,BTech,Business,Communication,68,83,Business Analyst
+1077,Student_77,Male,95,20,BE,Marketing,Creativity,89,71,Digital Marketer
+1078,Student_78,Female,92,22,BE,Technology,Networking,62,61,Cyber Security Analyst
+1079,Student_79,Male,91,22,BCom,Technology,Cloud,72,70,Cloud Engineer
+1080,Student_80,Female,71,20,BTech,Technology,Machine Learning,79,73,AI Engineer
+1081,Student_81,Male,92,18,BE,Technology,Python,86,100,Data Analyst
+1082,Student_82,Female,77,19,BSc,Technology,SQL,61,99,Data Scientist
+1083,Student_83,Male,73,22,BE,Technology,Programming,96,91,Software Developer
+1084,Student_84,Female,88,21,BTech,Design,Creativity,99,60,UI/UX Designer
+1085,Student_85,Male,69,19,BCom,Finance,Analytics,86,89,Financial Analyst
+1086,Student_86,Female,77,21,BTech,Business,Communication,97,71,Business Analyst
+1087,Student_87,Male,75,18,BTech,Marketing,Creativity,81,81,Digital Marketer
+1088,Student_88,Female,94,20,BCom,Technology,Networking,62,88,Cyber Security Analyst
+1089,Student_89,Male,80,19,BTech,Technology,Cloud,93,70,Cloud Engineer
+1090,Student_90,Female,87,20,BCA,Technology,Machine Learning,60,61,AI Engineer
+1091,Student_91,Male,89,20,BTech,Technology,Python,83,79,Data Analyst
+1092,Student_92,Female,74,22,BTech,Technology,SQL,95,67,Data Scientist
+1093,Student_93,Male,93,20,BE,Technology,Programming,68,95,Software Developer
+1094,Student_94,Female,68,20,BSc,Design,Creativity,100,63,UI/UX Designer
+1095,Student_95,Male,60,18,BCom,Finance,Analytics,94,81,Financial Analyst
+1096,Student_96,Female,76,21,BCA,Business,Communication,65,87,Business Analyst
+1097,Student_97,Male,66,22,BSc,Marketing,Creativity,83,97,Digital Marketer
+1098,Student_98,Female,64,18,BTech,Technology,Networking,94,73,Cyber Security Analyst
+1099,Student_99,Male,73,18,BCom,Technology,Cloud,64,80,Cloud Engineer
+1100,Student_100,Female,69,21,BCom,Technology,Machine Learning,90,96,AI Engineer
+1101,Student_101,Male,72,20,BSc,Technology,Python,90,81,Data Analyst
+1102,Student_102,Female,78,22,BCA,Technology,SQL,76,67,Data Scientist
+1103,Student_103,Male,64,19,BCom,Technology,Programming,76,65,Software Developer
+1104,Student_104,Female,77,20,BSc,Design,Creativity,76,99,UI/UX Designer
+1105,Student_105,Male,63,20,BCA,Finance,Analytics,66,90,Financial Analyst
+1106,Student_106,Female,69,19,BE,Business,Communication,72,77,Business Analyst
+1107,Student_107,Male,71,19,BSc,Marketing,Creativity,80,85,Digital Marketer
+1108,Student_108,Female,84,18,BE,Technology,Networking,79,79,Cyber Security Analyst
+1109,Student_109,Male,81,18,BTech,Technology,Cloud,85,89,Cloud Engineer
+1110,Student_110,Female,81,19,BSc,Technology,Machine Learning,75,73,AI Engineer
+1111,Student_111,Male,92,18,BTech,Technology,Python,93,77,Data Analyst
+1112,Student_112,Female,86,20,BCA,Technology,SQL,89,75,Data Scientist
+1113,Student_113,Male,95,18,BCA,Technology,Programming,79,64,Software Developer
+1114,Student_114,Female,62,21,BCom,Design,Creativity,79,60,UI/UX Designer
+1115,Student_115,Male,60,22,BSc,Finance,Analytics,92,96,Financial Analyst
+1116,Student_116,Female,93,20,BSc,Business,Communication,92,99,Business Analyst
+1117,Student_117,Male,93,22,BCA,Marketing,Creativity,74,77,Digital Marketer
+1118,Student_118,Female,65,20,BCom,Technology,Networking,91,94,Cyber Security Analyst
+1119,Student_119,Male,78,21,BCom,Technology,Cloud,91,78,Cloud Engineer
+1120,Student_120,Female,90,21,BSc,Technology,Machine Learning,91,66,AI Engineer
+1121,Student_121,Male,61,19,BE,Technology,Python,85,93,Data Analyst
+1122,Student_122,Female,65,19,BTech,Technology,SQL,68,72,Data Scientist
+1123,Student_123,Male,83,20,BCom,Technology,Programming,92,78,Software Developer
+1124,Student_124,Female,80,22,BE,Design,Creativity,95,68,UI/UX Designer
+1125,Student_125,Male,69,21,BSc,Finance,Analytics,83,78,Financial Analyst
+1126,Student_126,Female,76,22,BCom,Business,Communication,61,86,Business Analyst
+1127,Student_127,Male,72,22,BTech,Marketing,Creativity,95,99,Digital Marketer
+1128,Student_128,Female,79,22,BE,Technology,Networking,85,67,Cyber Security Analyst
+1129,Student_129,Male,90,19,BSc,Technology,Cloud,60,78,Cloud Engineer
+1130,Student_130,Female,79,21,BCA,Technology,Machine Learning,60,80,AI Engineer
+1131,Student_131,Male,92,18,BCom,Technology,Python,81,76,Data Analyst
+1132,Student_132,Female,85,22,BCom,Technology,SQL,62,100,Data Scientist
+1133,Student_133,Male,60,20,BCom,Technology,Programming,79,91,Software Developer
+1134,Student_134,Female,76,18,BTech,Design,Creativity,68,81,UI/UX Designer
+1135,Student_135,Male,64,20,BCA,Finance,Analytics,67,70,Financial Analyst
+1136,Student_136,Female,69,22,BE,Business,Communication,76,82,Business Analyst
+1137,Student_137,Male,84,19,BSc,Marketing,Creativity,99,95,Digital Marketer
+1138,Student_138,Female,60,19,BCA,Technology,Networking,94,93,Cyber Security Analyst
+1139,Student_139,Male,68,20,BCom,Technology,Cloud,96,61,Cloud Engineer
+1140,Student_140,Female,87,20,BSc,Technology,Machine Learning,95,61,AI Engineer
+1141,Student_141,Male,65,22,BCA,Technology,Python,90,71,Data Analyst
+1142,Student_142,Female,81,22,BTech,Technology,SQL,87,74,Data Scientist
+1143,Student_143,Male,88,20,BCA,Technology,Programming,60,72,Software Developer
+1144,Student_144,Female,89,18,BCA,Design,Creativity,70,96,UI/UX Designer
+1145,Student_145,Male,79,21,BSc,Finance,Analytics,85,88,Financial Analyst
+1146,Student_146,Female,65,22,BTech,Business,Communication,65,62,Business Analyst
+1147,Student_147,Male,93,22,BE,Marketing,Creativity,77,93,Digital Marketer
+1148,Student_148,Female,77,18,BTech,Technology,Networking,79,74,Cyber Security Analyst
+1149,Student_149,Male,77,20,BE,Technology,Cloud,75,76,Cloud Engineer
+1150,Student_150,Female,80,22,BSc,Technology,Machine Learning,68,60,AI Engineer
+1151,Student_151,Male,81,22,BE,Technology,Python,75,70,Data Analyst
+1152,Student_152,Female,80,22,BCA,Technology,SQL,76,100,Data Scientist
+1153,Student_153,Male,72,22,BTech,Technology,Programming,90,70,Software Developer
+1154,Student_154,Female,64,22,BE,Design,Creativity,98,85,UI/UX Designer
+1155,Student_155,Male,73,20,BSc,Finance,Analytics,97,65,Financial Analyst
+1156,Student_156,Female,81,18,BSc,Business,Communication,86,85,Business Analyst
+1157,Student_157,Male,91,18,BSc,Marketing,Creativity,79,83,Digital Marketer
+1158,Student_158,Female,70,19,BSc,Technology,Networking,69,100,Cyber Security Analyst
+1159,Student_159,Male,92,18,BCom,Technology,Cloud,63,67,Cloud Engineer
+1160,Student_160,Female,61,20,BE,Technology,Machine Learning,78,74,AI Engineer
+1161,Student_161,Male,62,18,BCA,Technology,Python,67,91,Data Analyst
+1162,Student_162,Female,78,20,BE,Technology,SQL,95,79,Data Scientist
+1163,Student_163,Male,82,19,BCom,Technology,Programming,86,82,Software Developer
+1164,Student_164,Female,85,20,BE,Design,Creativity,83,68,UI/UX Designer
+1165,Student_165,Male,70,22,BSc,Finance,Analytics,82,100,Financial Analyst
+1166,Student_166,Female,83,20,BCom,Business,Communication,73,91,Business Analyst
+1167,Student_167,Male,74,22,BSc,Marketing,Creativity,97,83,Digital Marketer
+1168,Student_168,Female,77,20,BCA,Technology,Networking,65,92,Cyber Security Analyst
+1169,Student_169,Male,63,20,BSc,Technology,Cloud,93,77,Cloud Engineer
+1170,Student_170,Female,63,18,BCA,Technology,Machine Learning,62,96,AI Engineer
+1171,Student_171,Male,76,18,BE,Technology,Python,78,81,Data Analyst
+1172,Student_172,Female,61,20,BSc,Technology,SQL,73,69,Data Scientist
+1173,Student_173,Male,61,18,BCom,Technology,Programming,74,98,Software Developer
+1174,Student_174,Female,81,18,BTech,Design,Creativity,100,98,UI/UX Designer
+1175,Student_175,Male,79,19,BTech,Finance,Analytics,60,82,Financial Analyst
+1176,Student_176,Female,64,18,BE,Business,Communication,85,62,Business Analyst
+1177,Student_177,Male,65,18,BTech,Marketing,Creativity,68,70,Digital Marketer
+1178,Student_178,Female,86,19,BTech,Technology,Networking,76,74,Cyber Security Analyst
+1179,Student_179,Male,87,19,BSc,Technology,Cloud,91,95,Cloud Engineer
+1180,Student_180,Female,78,22,BTech,Technology,Machine Learning,71,65,AI Engineer
+1181,Student_181,Male,85,20,BE,Technology,Python,63,65,Data Analyst
+1182,Student_182,Female,83,19,BE,Technology,SQL,91,65,Data Scientist
+1183,Student_183,Male,65,21,BCA,Technology,Programming,76,78,Software Developer
+1184,Student_184,Female,65,20,BE,Design,Creativity,78,74,UI/UX Designer
+1185,Student_185,Male,74,21,BE,Finance,Analytics,70,98,Financial Analyst
+1186,Student_186,Female,63,21,BCA,Business,Communication,65,86,Business Analyst
+1187,Student_187,Male,83,18,BCA,Marketing,Creativity,91,83,Digital Marketer
+1188,Student_188,Female,75,19,BCA,Technology,Networking,64,61,Cyber Security Analyst
+1189,Student_189,Male,71,18,BTech,Technology,Cloud,100,60,Cloud Engineer
+1190,Student_190,Female,70,20,BCA,Technology,Machine Learning,60,81,AI Engineer
+1191,Student_191,Male,77,21,BE,Technology,Python,80,62,Data Analyst
+1192,Student_192,Female,78,19,BSc,Technology,SQL,90,97,Data Scientist
+1193,Student_193,Male,64,18,BCA,Technology,Programming,60,64,Software Developer
+1194,Student_194,Female,76,18,BCA,Design,Creativity,87,67,UI/UX Designer
+1195,Student_195,Male,65,21,BCA,Finance,Analytics,90,91,Financial Analyst
+1196,Student_196,Female,67,21,BCA,Business,Communication,70,82,Business Analyst
+1197,Student_197,Male,67,20,BCA,Marketing,Creativity,95,74,Digital Marketer
+1198,Student_198,Female,67,18,BCA,Technology,Networking,93,64,Cyber Security Analyst
+1199,Student_199,Male,66,18,BE,Technology,Cloud,70,86,Cloud Engineer
+1200,Student_200,Female,82,18,BCA,Technology,Machine Learning,79,78,AI Engineer
